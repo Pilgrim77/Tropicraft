@@ -1,0 +1,901 @@
+#PARSE_ESCAPES
+
+# Block localizations
+tile.tropicraft.chunk.name=Фрагмент Головы
+tile.tropicraft.chunk_stairs.name=Ступеньки из фрагментов Головы
+tile.tropicraft.ore.eudialyte.name=Эвдиалитовая руда
+tile.tropicraft.ore.zircon.name=Цирконовая руда
+tile.tropicraft.ore.azurite.name=Азуритовая руда
+tile.tropicraft.ore.manganese.name=Марганцевая руда
+tile.tropicraft.ore.shaka.name=Камень Шака
+tile.tropicraft.oreblock.azurite.name=Азуритовый блок
+tile.tropicraft.oreblock.eudialyte.name=Эвдиалитовый блок
+tile.tropicraft.oreblock.zircon.name=Цирконовый блок
+tile.tropicraft.flower.commelina_diffusa.name=Коммелина раскидистая
+tile.tropicraft.flower.crocosmia.name=Крокосия
+tile.tropicraft.flower.orchid.name=Орхидея
+tile.tropicraft.flower.canna.name=Канна
+tile.tropicraft.flower.anemone.name=Анемона
+tile.tropicraft.flower.orange_anthurium.name=Оранжевый антуриум
+tile.tropicraft.flower.red_anthurium.name=Красный антуриум
+tile.tropicraft.flower.magic_mushroom.name=Галлюциногенный гриб
+tile.tropicraft.flower.pathos.name=Пафос
+tile.tropicraft.flower.acai_vine.name=Лоза асаи
+tile.tropicraft.flower.croton.name=Кротон
+tile.tropicraft.flower.dracaena.name=Драцена
+tile.tropicraft.flower.fern.name=Папоротник
+tile.tropicraft.flower.foliage.name=Листва
+tile.tropicraft.flower.bromeliad.name=Бромелия
+tile.tropicraft.log.mahogany.name=Махагони
+tile.tropicraft.log.palm.name=Пальма
+tile.tropicraft.coral.pink.name=Розовый коралл
+tile.tropicraft.coral.tealy.name=Коралл тили
+tile.tropicraft.coral.brain.name=Коралл-мозговик
+tile.tropicraft.coral.fire.name=Огненный коралл
+tile.tropicraft.coral.green.name=Зелёный коралл
+tile.tropicraft.coral.spiral.name=Спиральный коралл
+tile.tropicraft.coral.hotpink.name=Ярко-розовый коралл
+tile.tropicraft.bundle.thatch.name=Связка соломы
+tile.tropicraft.bundle.bamboo.name=Связка бамбука
+tile.tropicraft.plank.mahogany.name=Махагониевые доски
+tile.tropicraft.plank.palm.name=Пальмовые доски
+tile.tropicraft.bamboo_shoot.name=Ствол бамбука
+tile.tropicraft.thatch_stairs.name=Соломенные ступеньки
+tile.tropicraft.bamboo_stairs.name=Бамбуковые ступеньки
+tile.tropicraft.thatch_stairs_fuzzy.name=Соломенная крыша
+tile.tropicraft.leaves.mahogany.name=Махагониевые листья
+tile.tropicraft.leaves.palm.name=Листья пальмы
+tile.tropicraft.leaves.kapok.name=Листья капока
+tile.tropicraft.leaves.fruit.name=Листья фруктового дерева
+tile.tropicraft.bamboo_chest.name=Бамбуковый сундук
+tile.tropicraft.fruitleaves.grapefruit.name=Листья грейпфрута
+tile.tropicraft.fruitleaves.lemon.name=Листья лимона
+tile.tropicraft.fruitleaves.lime.name=Листья лайма
+tile.tropicraft.fruitleaves.orange.name=Листья апельсина
+tile.tropicraft.sapling.palm.name=Саженец пальмы
+tile.tropicraft.sapling.mahogany.name=Саженец махагони
+tile.tropicraft.sapling.grapefruit.name=Саженец грейпфрута
+tile.tropicraft.sapling.lemon.name=Саженец лимона
+tile.tropicraft.sapling.lime.name=Саженец лайма
+tile.tropicraft.sapling.orange.name=Саженец апельсина
+tile.tropicraft.coconut.name=Кокос
+tile.tropicraft.sand.purified.name=Чистый песок
+tile.tropicraft.sand.foamy.name=Пенный песок
+tile.tropicraft.sand.volcanic.name=Вулканический песок
+tile.tropicraft.sand.mineral.name=Минеральный песок
+tile.tropicraft.sand.coral.name=Коралловый песок
+tile.tropicraft.iris.name=Ирис
+tile.tropicraft.pineapple.name=Ананас
+tile.tropicraft.tiki_torch.name=Тики факел
+tile.tropicraft.drink_mixer.name=Миксер для напитков
+tile.tropicraft.sifter.name=Просеиватель
+tile.tropicraft.air_compressor.name=Воздушный компрессор
+tile.tropicraft.flower_pot.name=Цветочный горшок
+tile.tropicraft.palm_stairs.name=Пальмовые ступеньки
+tile.tropicraft.mahogany_stairs.name=Махагониевые ступеньки
+tile.tropicraft.slab.bamboo.name=Бамбуковая плита
+tile.tropicraft.slab.chunk.name=Плита из фрагментов Головы
+tile.tropicraft.slab.palm.name=Пальмовая плита
+tile.tropicraft.slab.mahogany.name=Махагониевая плита
+tile.tropicraft.slab.thatch.name=Соломенная плита
+tile.tropicraft.bongo.small.name=Маленький барабан бонго
+tile.tropicraft.bongo.medium.name=Средний барабан бонго
+tile.tropicraft.bongo.large.name=Большой барабан бонго
+tile.tropicraft.bamboo_fence.name=Бамбуковый забор
+tile.tropicraft.bamboo_fence_gate.name=Бамбуковая калитка
+tile.tropicraft.chunk_fence.name=Забор из фрагментов Головы
+tile.tropicraft.chunk_fence_gate.name=Калитка из фрагментов Головы
+tile.tropicraft.mahogany_fence.name=Махагониевый забор
+tile.tropicraft.mahogany_fence_gate.name=Махагониевая калитка
+tile.tropicraft.palm_fence.name=Пальмовый забор
+tile.tropicraft.palm_fence_gate.name=Пальмовая калитка
+tile.tropicraft.thatch_fence.name=Соломенный забор
+tile.tropicraft.thatch_fence_gate.name=Тростниковая калитка
+tile.tropicraft.portal_wall.name=Стена портала в Тропики
+tile.tropicraft.bamboo_ladder.name=Бамбуковая лестница
+tile.tropicraft.packed_purified_sand.name=Плотный чистый песок
+
+# Item localizations
+item.tropicraft.eudialyte.name=Осколок эвдиалита
+item.tropicraft.zircon.name=Цирконовый кристалл
+item.tropicraft.azurite.name=Азуритовый кристалл
+item.tropicraft.grapefruit.name=Грейпфрут
+item.tropicraft.lemon.name=Лимон
+item.tropicraft.lime.name=Лайм
+item.tropicraft.orange.name=Апельсин
+item.tropicraft.axe_eudialyte.name=Эвдиалитовый топор
+item.tropicraft.hoe_eudialyte.name=Эвдиалитовая мотыга
+item.tropicraft.pickaxe_eudialyte.name=Эвдиалитовая кирка
+item.tropicraft.shovel_eudialyte.name=Эвдиалитовая лопата
+item.tropicraft.sword_eudialyte.name=Эвдиалитовый меч
+item.tropicraft.axe_zircon.name=Цирконовый топор
+item.tropicraft.hoe_zircon.name=Цирконовая мотыга
+item.tropicraft.pickaxe_zircon.name=Цирконовая кирка
+item.tropicraft.shovel_zircon.name=Цирконовая лопата
+item.tropicraft.sword_zircon.name=Цирконовое копьё
+item.tropicraft.fishing_net.name=Рыболовная сеть
+item.tropicraft.bamboo_shoots.name=Бамбуковый ствол
+item.tropicraft.fresh_marlin.name=Свежий марлин
+item.tropicraft.seared_marlin.name=Копчёный марлин
+item.tropicraft.bamboo_stick.name=Бамбуковая палка
+item.tropicraft.bamboo_mug.name=Бамбуковая кружка
+item.tropicraft.tropics_water_bucket.name=Ведро тропической воды
+item.tropicraft.fish_bucket.name=Ведро с рыбой
+item.tropicraft.coconut_chunk.name=Кусочек кокоса
+item.tropicraft.frog_leg.name=Лягушачья лапка
+item.tropicraft.cooked_frog_leg.name=Приготовленная лягушачья лапка
+item.tropicraft.poison_frog_skin.name=Кожа ядовитой лягушки
+item.tropicraft.scale.name=Чешуя игуаны
+item.tropicraft.scale_boots.name=Чешуйчатые ботинки
+item.tropicraft.scale_chestplate.name=Чешуйчатый нагрудник
+item.tropicraft.scale_helmet.name=Чешуйчатый шлем
+item.tropicraft.scale_leggings.name=Чешуйчатые поножи
+item.tropicraft.chair.black.name=Чёрное пляжное кресло
+item.tropicraft.chair.red.name=Красное пляжное кресло
+item.tropicraft.chair.green.name=Зелёное пляжное кресло
+item.tropicraft.chair.brown.name=Коричное пляжное кресло
+item.tropicraft.chair.blue.name=Синее пляжное кресло
+item.tropicraft.chair.purple.name=Фиолетовое пляжное кресло
+item.tropicraft.chair.cyan.name=Бирюзовое пляжное кресло
+item.tropicraft.chair.silver.name=Серебристое пляжное кресло
+item.tropicraft.chair.gray.name=Серое пляжное кресло
+item.tropicraft.chair.pink.name=Розовое пляжное кресло
+item.tropicraft.chair.lime.name=Лаймовое пляжное кресло
+item.tropicraft.chair.yellow.name=Жёлтое пляжное кресло
+item.tropicraft.chair.lightBlue.name=Голубое пляжное кресло
+item.tropicraft.chair.magenta.name=Пурпурное пляжное кресло
+item.tropicraft.chair.orange.name=Оранжевое пляжное кресло
+item.tropicraft.chair.white.name=Белое пляжное кресло
+item.tropicraft.umbrella.black.name=Чёрный пляжный зонт
+item.tropicraft.umbrella.red.name=Красный пляжный зонт
+item.tropicraft.umbrella.green.name=Зелёный пляжный зонт
+item.tropicraft.umbrella.brown.name=Коричневый пляжный зонт
+item.tropicraft.umbrella.blue.name=Синий пляжный зонт
+item.tropicraft.umbrella.purple.name=Фиолетовый пляжный зонт
+item.tropicraft.umbrella.cyan.name=Бирюзовый пляжный зонт
+item.tropicraft.umbrella.silver.name=Серебристый пляжный зонт
+item.tropicraft.umbrella.gray.name=Серый пляжный зонт
+item.tropicraft.umbrella.pink.name=Розовый пляжный зонт
+item.tropicraft.umbrella.lime.name=Лаймовый пляжный зонт
+item.tropicraft.umbrella.yellow.name=Жёлтый пляжный зонт
+item.tropicraft.umbrella.lightBlue.name=Голубой пляжный зонт
+item.tropicraft.umbrella.magenta.name=Пурпурный пляжный зонт
+item.tropicraft.umbrella.orange.name=Оранжевый пляжный зонт
+item.tropicraft.umbrella.white.name=Белый пляжный зонт
+item.tropicraft.float.black.name=Чёрный пляжный плот
+item.tropicraft.float.red.name=Красный пляжный плот
+item.tropicraft.float.green.name=Зелёный пляжный плот
+item.tropicraft.float.brown.name=Коричневый пляжный плот
+item.tropicraft.float.blue.name=Синий пляжный плот
+item.tropicraft.float.purple.name=Фиолетовый пляжный плот
+item.tropicraft.float.cyan.name=Бирюзовый пляжный плот
+item.tropicraft.float.silver.name=Серебристый пляжный плот
+item.tropicraft.float.gray.name=Серый пляжный плот
+item.tropicraft.float.pink.name=Розовый пляжный плот
+item.tropicraft.float.lime.name=Лаймовый пляжный плот
+item.tropicraft.float.yellow.name=Жёлтый пляжный плот
+item.tropicraft.float.lightBlue.name=Голубой пляжный плот
+item.tropicraft.float.magenta.name=Пурпурный пляжный плот
+item.tropicraft.float.orange.name=Оранжевый пляжный плот
+item.tropicraft.float.white.name=Белый пляжный плот
+item.tropicraft.portal_enchanter.name=Волшебный жезл Портала в Тропики
+item.tropicraft.shell.name=Ракушка
+item.tropicraft.shell.solo.name=Ракушка Солонокса
+item.tropicraft.shell.frox.name=Моллюск Фрокса
+item.tropicraft.shell.pab.name=Ракушка Паба
+item.tropicraft.shell.rube.name=Наутилус Рубе
+item.tropicraft.shell.starfish.name=Морская звезда
+item.tropicraft.shell.turtle.name=Панцирь черепахи
+item.tropicraft.shell.owned.normal.name=%s' ракушка
+item.tropicraft.shell.owned.with_s.name=%s' ракушка
+item.tropicraft.cocktail.name=Тропический коктейль
+item.tropicraft.pineapple_cubes.name=Ананасовое кубики
+item.tropicraft.white_pearl.name=Белая жемчужина
+item.tropicraft.black_pearl.name=Чёрная жемчужина
+item.tropicraft.fertilizer.name=Удобрение
+item.tropicraft.encyclopedia_tropica.name=Энциклопедия Тропиков
+item.tropicraft.bamboo_spear.name=Бамбуковое копьё
+item.tropicraft.dagger.name=Кинжал
+item.tropicraft.leaf_ball.name=Лиственный шар
+item.tropicraft.coconut_bomb.name=Кокосовая бомба
+item.tropicraft.flower_pot.name=Цветочный горшок
+item.tropicraft.bamboo_door.name=Бамбуковая дверь
+item.tropicraft.bamboo_item_frame.name=Бамбуковая рамка
+item.tropicraft.water_wand.name=Водный жезл
+item.tropicraft.spawn_egg.iguana.name=Призыв игуаны
+item.tropicraft.spawn_egg.starfish.name=Призыв морской звезды
+item.tropicraft.spawn_egg.greenfrog.name=Призыв зелёной лягушки
+item.tropicraft.spawn_egg.redfrog.name=Призыв ядовитой красной лягушки
+item.tropicraft.spawn_egg.bluefrog.name=Призыв ядовитой синей лягушки
+item.tropicraft.spawn_egg.yellowfrog.name=Призыв ядовитой жёлтой лягушки
+item.tropicraft.spawn_egg.eih.name=Глаз Головы
+item.tropicraft.spawn_egg.marlin.name=Призыв марлина
+item.tropicraft.spawn_egg.fish.name=Призыв стайки тропических рыб
+item.tropicraft.spawn_egg.ashen.name=Пепел пепельника
+item.tropicraft.spawn_egg.turtle.name=Призыв морской черепахи
+item.tropicraft.spawn_egg.mow.name=Призыв кораблика
+item.tropicraft.spawn_egg.monkey.name=Лапа обезьяны
+item.tropicraft.spawn_egg.koa.name=Повязка Коа
+item.tropicraft.spawn_egg.tropicreeper.name=Шляпа тропикрипера
+item.tropicraft.spawn_egg.tropiskelly.name=Юбка тропискелета
+item.tropicraft.spawn_egg.eagleray.name=Призыв пятнистого орляка
+item.tropicraft.spawn_egg.failgull.name=Призыв чайки
+item.tropicraft.spawn_egg.seaurchin.name=Призыв морского ежа
+item.tropicraft.spawn_egg.dolphin.name=Призыв дельфина
+item.tropicraft.spawn_egg.seahorse.name=Призыв морского конька
+item.tropicraft.spawn_egg.hammerhead.name=Призыв акулы-молота
+item.tropicraft.spawn_egg.piranha.name=Призыв стайки пираней
+item.tropicraft.spawn_egg.sardine.name=Призыв стайки речных сардин
+item.tropicraft.spawn_egg.tropispider.name=Призыв тропического паука
+item.tropicraft.nigel_stache.name=Усы Найджела
+
+item.tropicraft.sea_urchin_roe.name=Икра морского ежа
+item.tropicraft.fishing_rod.name=Бамбуковая удочка
+
+item.tropicraft.fire_boots.name=Огненные ботинки
+item.tropicraft.fire_chestplate.name=Огненный нагрудник
+item.tropicraft.fire_helmet.name=Огненный шлем
+item.tropicraft.fire_leggings.name=Огненные поножи
+item.tropicraft.iguana_leather.name=Кожа игуаны
+
+item.tropicraft.spawn_egg.name=Яйцо призыва обитателей Тропиков
+item.tropicraft.coffee.bean.raw.name=Кофейные зёрна
+item.tropicraft.coffee.bean.roasted.name=Жаренные кофейные зёрна
+item.tropicraft.coffee.berry.name=Кофейная ягода
+
+
+item.tropicraft.pink_weight_belt.name=Розовый пояс с грузом
+item.tropicraft.yellow_weight_belt.name=Жёлтый пояс с грузом
+item.tropicraft.pink_pony_bottle.name=Розовый запасной баллон
+item.tropicraft.yellow_pony_bottle.name=Жёлтый запасной баллон
+item.tropicraft.pink_flippers.name=Розовые ласты
+item.tropicraft.yellow_flippers.name=Жёлтые ласты
+item.tropicraft.pink_bcd.name=Розовый компенсатор плавучести
+item.tropicraft.yellow_bcd.name=Жёлтый компенсатор плавучести
+item.tropicraft.pink_regulator.name=Розовый регулятор
+item.tropicraft.yellow_regulator.name=Жёлтый регулятор
+item.tropicraft.yellow_scuba_tank.name=Жёлтый баллон
+item.tropicraft.pink_scuba_tank.name=Розовый баллон
+item.tropicraft.pink_scuba_goggles.name=Розовые подводные очки
+item.tropicraft.yellow_scuba_goggles.name=Жёлтые подводные очки
+item.tropicraft.dive_computer.name=Компьютер для дайвинга
+item.tropicraft.yellow_chestplate_gear.name=Жёлтая подвесная система
+item.tropicraft.pink_chestplate_gear.name=Розовая подвесная система
+item.tropicraft.trimix.name=Тримикс газовая смесь
+item.tropicraft.seaweed.name=Водоросль
+item.tropicraft.nori_raw.name=Сырая нори
+item.tropicraft.nori_toasted.name=Жаренная нори
+item.tropicraft.ray_raw.name=Сырой пятнистый орляк
+item.tropicraft.ray_cooked.name=Приготовленный пятнистый орляк
+# Feesh
+item.tropicraft.tropicalfish.0.raw.name=Сырая рыба-клоун
+item.tropicraft.tropicalfish.1.raw.name=Сырая ангел-королева
+item.tropicraft.tropicalfish.2.raw.name=Сырая жёлтая зебросома
+item.tropicraft.tropicalfish.3.raw.name=Сырая рыба-бабочка
+item.tropicraft.tropicalfish.4.raw.name=Сырой геофагус суринамский
+item.tropicraft.tropicalfish.5.raw.name=Сырая бойцовая рыбка
+item.tropicraft.tropicalfish.6.raw.name=Сырая рыба-хирург
+item.tropicraft.tropicalfish.7.raw.name=Сырая королевская грамма
+
+item.tropicraft.tropicalfish.0.cooked.name=Приготовленная рыба-клоун
+item.tropicraft.tropicalfish.1.cooked.name=Приготовленная ангел-королева
+item.tropicraft.tropicalfish.2.cooked.name=Приготовленная жёлтая зебросома
+item.tropicraft.tropicalfish.3.cooked.name=Приготовленная рыба-бабочка
+item.tropicraft.tropicalfish.4.cooked.name=Приготовленный геофагус суринамский
+item.tropicraft.tropicalfish.5.cooked.name=Приготовленная бойцовая рыбка
+item.tropicraft.tropicalfish.6.cooked.name=Приготовленная рыба-хирург
+item.tropicraft.tropicalfish.7.cooked.name=Приготовленная королевская грамма
+
+item.tropicraft.riverfish.piranha.raw.name=Сырая пиранья
+item.tropicraft.riverfish.sardine.raw.name=Сырая сардина
+item.tropicraft.riverfish.piranha.cooked.name=Приготовленная пиранья
+item.tropicraft.riverfish.sardine.cooked.name=Приготовленная сардина
+
+# Word localizations
+tropicraft.raw=Сырой
+tropicraft.cooked=Приготовленный
+
+# Cocktail localizations
+tropicraft.drink.lemonade.name=Лимонад
+tropicraft.drink.limeade.name=Лаймад
+tropicraft.drink.orangeade.name=Оранжад
+tropicraft.drink.caipirinha.name=Кайпиринья
+tropicraft.drink.coconut_water.name=Кокосовая вода
+tropicraft.drink.pina_colada.name=Пинаколада
+tropicraft.drink.black_coffee.name=Чёрный кофе
+tropicraft.drink.mai_tai.name=Май Тай
+
+# Record localizations
+item.tropicraft:record_buriedtreasure.name=Buried Treasure
+item.tropicraft:record_easternisles.name=Eastern Isles
+item.tropicraft:record_lowtide.name=Low Tide
+item.tropicraft:record_summering.name=Summering
+item.tropicraft:record_thetribe.name=The Tribe
+item.tropicraft:record_tradewinds.name=Trade Winds
+
+# Mask localizations
+item.tropicraft.mask_square_zord.name=Square Zord
+item.tropicraft.mask_horn_monkey.name=Horn Monkey
+item.tropicraft.mask_oblongatron.name=Oblongatron
+item.tropicraft.mask_headinator.name=Headinator
+item.tropicraft.mask_square_horn.name=Square Horn
+item.tropicraft.mask_screw_attack.name=Screw Attack
+item.tropicraft.mask_the_brain.name=The Brain
+item.tropicraft.mask_bat_boy.name=Bat Boy
+item.tropicraft.mask_ashen_mask1.name=Маска из пепла
+item.tropicraft.mask_ashen_mask2.name=Маска из пепла
+item.tropicraft.mask_ashen_mask3.name=Маска из пепла
+item.tropicraft.mask_ashen_mask4.name=Маска из пепла
+item.tropicraft.mask_ashen_mask5.name=Маска из пепла
+
+# Menu localizations
+itemGroup.tropicraft=Tropicraft
+
+# Config localizations
+tropicraft.config.title=Настройки Tropicraft
+tropicraft.config.generation.title=Настройки генерации мира
+tropicraft.config.misc.title=Дополнительные настройки
+tropicraft.config.entity.title=Настройки существ
+
+# Entity localizations
+entity.tropicraft.iguana.name=Игуана
+entity.tropicraft.tropiskelly.name=Тропискелет
+entity.tropicraft.eih.name=Голова Oстрова Пасхи
+entity.tropicraft.greenfrog.name=Зелёная древесная лягушка
+entity.tropicraft.redfrog.name=Ядовитая красная древесная лягушка
+entity.tropicraft.bluefrog.name=Ядовитая синяя древесная лягушка
+entity.tropicraft.yellowfrog.name=Ядовитая жёлтая древесная лягушка
+entity.tropicraft.tropicreeper.name=Тропикрипер
+entity.tropicraft.monkey.name=Верветка
+entity.tropicraft.PoisonBlot.name=Ядовитое пятно
+entity.tropicraft.marlin.name=Марлин
+entity.tropicraft.ashen.name=Пепельник
+entity.tropicraft.piranha.name=Пиранья
+entity.tropicraft.sardine.name=Речная сардина
+entity.tropicraft.dolphin.name=Дельфин
+entity.tropicraft.hammerhead.name=Акула-молот
+entity.tropicraft.tropispider.name=Тропический паук
+entity.tropicraft.seahorse.name=Морской конёк
+entity.tropicraft.seaurchin.name=Морской ёж
+entity.tropicraft.starfish.name=Морская звезда
+entity.tropicraft.eagleray.name=Пятнистый орляк
+entity.tropicraft.turtle.name=Морская черепаха
+entity.tropicraft.koa.name=Коа
+entity.tropicraft.tropicalfish.0.name=Рыба-клоун
+entity.tropicraft.tropicalfish.1.name=Ангел-королева
+entity.tropicraft.tropicalfish.2.name=Жёлтая зебросома
+entity.tropicraft.tropicalfish.3.name=Рыба-бабочка
+entity.tropicraft.tropicalfish.4.name=Геофагус суринамский
+entity.tropicraft.tropicalfish.5.name=Бойцовая рыбка
+entity.tropicraft.tropicalfish.6.name=Рыба-хирург
+entity.tropicraft.tropicalfish.7.name=Королевская грамма
+
+# Achievement localizations
+achievement.tc_craft_pina_colada=Если вам нравится пинаколада...
+achievement.tc_craft_pina_colada.desc=(Кому не нравится?)
+achievement.tc_drink_pina_colada=Застигнутый дождём
+achievement.tc_drink_pina_colada.desc=(Вы не забыли свой зонт?)
+
+#Gui localizations
+tropicraft.gui.air.type=Тип воздуха: %s
+tropicraft.gui.air.regular=Обычный
+tropicraft.gui.air.trimix=Тримикс
+tropicraft.gui.air.capacity=Макс. объём воздуха: %s psi
+tropicraft.gui.air.remaining=Осталось воздуха: %s psi
+tropicraft.gui.air.efficiency=Скорость расхода: %s psi/сек
+tropicraft.gui.suit.type=Тип костюма: %s
+tropicraft.gui.suit.yellow=Жёлтый
+tropicraft.gui.suit.pink=Розовый
+tropicraft.gui.gear.tank.left.none=Левый баллон отсутствует
+tropicraft.gui.gear.tank.left.info=Левый баллон:
+tropicraft.gui.gear.tank.right.none=Правый баллон отсутствует
+tropicraft.gui.gear.tank.right.info=Правый баллон:
+tropicraft.gui.gear.tank.tank.click=Нажмите Shift+Right, чтобы установить баллоны!
+gui.tropicraft.temperature=Темп.
+gui.tropicraft.currentDepth=Глубина
+gui.tropicraft.maxDepth=Макс.
+gui.tropicraft.timeRemaining=Оставшееся время
+gui.tropicraft.amtRefined=Процент очистки
+
+# Fluid localizations
+fluid.tropicraft.water=Тропическая вода
+fluid.tropicraft.portal=Тропический портал
+
+# Misc localizations
+tropicraft.coconutBombWarning=У вас нет разрешения на использование кокосовых бомб :) Проверьте белый список для кокосовых бомб в файле кофигурации Tropicraft!
+portalenchanter.type_0=Режим: Создание портала
+portalenchanter.type_1=Режим: Мгновенная телепортация
+
+# Koa Trading
+entity.tropicraft.koa.trade.give=Вы получили немного тримикс-газа!
+entity.tropicraft.koa.trade.not_enough_time=Вам всё ещё требуется более %s минут погружения! Нет тримикс-газа для вас!
+entity.tropicraft.koa.trade.cooldown=Кто-то уже получил ваш тримикс-газ недавно.
+entity.tropicraft.koa.trade.space=Ваш инвентарь переполнен!
+
+entity.tropicraft.koa.male.hunter.name=Охотник Коа
+entity.tropicraft.koa.female.hunter.name=Охотница Коа
+entity.tropicraft.koa.male.fisherman.name=Рыбак Коа
+entity.tropicraft.koa.female.fisherman.name=Рыбачка Коа
+
+# Misc chat notifications
+tropicraft.chat.teleport.unable=Вам необходимо выпить пинаколаду перед телепортацией!
+
+# Loading Screen
+tropicraft.loading.title.greeting=Переносимся в Тропики...
+tropicraft.loading.title.farewell=Хотелось бы, чтобы ты был здесь...
+
+tropicraft.loading.knowledge.pre=Знаете ли вы?
+tropicraft.loading.knowledge.1=%s Тропики - эта родина племени Коа
+tropicraft.loading.knowledge.2=%s Черепахи могут по ночам откладывать яйца на побережье
+tropicraft.loading.knowledge.3=%s Ракушки можно найти, просеивая песок
+
+tropicraft.loading.hint.pre=Подсказка:
+tropicraft.loading.hint.1=%s На взрослых черепахах можно кататься в воде верхом
+tropicraft.loading.hint.2=%s Игуаны довольно недружелюбны, постарайтесь не трогать их
+
+tropicraft.loading.misc.1=Не забудьте задержать дыхание!
+tropicraft.loading.misc.2=Приготовьтесь сделать всплеск
+
+# Tooltips
+tropicraft.tooltip.air_compressor=Поместите один или два пустых баллона в компрессор, чтобы заполнить их воздухом!
+tropicraft.tooltip.drink_mixer=Поместите два компонента напитка в миксер, затем поместите пустую кружку на основание, затем..., затем наслаждайтесь!
+tropicraft.tooltip.sifter=Поместите любой из видов обычного или тропического песка в просеиватель. Какие сокровища скрыты внутри?
+
+# Book text
+tropicraft.book.toc.title=Содержание
+tropicraft.book.bookmarks.title=Закладки
+tropicraft.book.bookmarks.tooltip=Просмотреть закладки
+
+# Encyclopedia Sections
+tropicraft.encyclopedia.section.foods.title=Тропическая еда
+tropicraft.encyclopedia.section.drinks.title=Тропические напитки
+tropicraft.encyclopedia.section.world.title=Мир Тропиков
+tropicraft.encyclopedia.section.tools.title=Тропические инструменты
+tropicraft.encyclopedia.section.armor.title=Доспехи
+tropicraft.encyclopedia.section.scuba.title=Подводное снаряжение
+tropicraft.encyclopedia.section.beach_accessories.title=Пляжные принадлежности
+tropicraft.encyclopedia.section.nature.title=Тропическая флора
+tropicraft.encyclopedia.section.decor.title=Декоративные предметы
+tropicraft.encyclopedia.section.flowers.title=Цветы Тропиков
+tropicraft.encyclopedia.section.shells.title=Ракушки
+tropicraft.encyclopedia.section.music.title=Тропическая музыка
+
+tropicraft.encyclopedia.section.misc.title=Разное
+tropicraft.encyclopedia.section.lovetropics.title=Love Tropics
+
+tropicraft.encyclopedia.lt17.title=Love Tropics 2017
+
+# Encyclopedia Entries
+
+tropicraft.encyclopedia.acai_vine.title=Лоза асаи
+tropicraft.encyclopedia.acai_vine.desc=Испорченные ветви, растущие из земли, которые используются для выращивания плодов асаи.
+
+tropicraft.encyclopedia.anemone.title=Анемона
+tropicraft.encyclopedia.anemone.desc=Этот нежный белый цветок добавляет немного невинного, спокойного цвета в этот мир.
+
+tropicraft.encyclopedia.orange_anthurium.title=Антуриум, оранжевый
+tropicraft.encyclopedia.orange_anthurium.desc=У этого сильного цветка оранжевого цета имеется красный двойник.
+
+tropicraft.encyclopedia.red_anthurium.title=Антуриум, красный
+tropicraft.encyclopedia.red_anthurium.desc=У этого сильного цветка красного цета имеется оранжевый двойник.
+
+tropicraft.encyclopedia.ashenmask.title=Пепельная маска
+tropicraft.encyclopedia.ashenmask.desc=Эти маски составляют саму личность пепельника. Без маски пепельник беззащитный, напуганный и трусливый, но надев её он становится, пожалуй, самым агрессивным охотником в Тропиках. Нося маску вы считаетесь Пепельником. Маски можно также повесить на стену, в качестве украшения. Но будьте бдительны - любой Пепельник без маски может забрать себе ближайшую маску.
+
+tropicraft.encyclopedia.azurite.title=Азурит
+tropicraft.encyclopedia.azurite.desc=Этот мягкий минерал на самом деле является медной рудой. Он окрашен в приятный синий цвет из-за выветривания месторождений медной руды.
+
+tropicraft.encyclopedia.bamboo.title=Бамбуковый ствол
+tropicraft.encyclopedia.bamboo.desc=Бамбук является самым универсальным материалом в Тропиках. Из него вы можете создавать оружие, блоки и кружки.
+
+tropicraft.encyclopedia.bamboomug.title=Бамбуковая кружка
+tropicraft.encyclopedia.bamboomug.desc=Бамбуковые кружки отлично подходят для хранения тропических напитков. Почему бы вам не найти ананас и кокос и сделать себе освежающую пинаколаду?
+
+tropicraft.encyclopedia.bambooblock.title=Связка бамбука
+tropicraft.encyclopedia.bambooblock.desc=Этот легко создаваемый блок сделан из обычного бамбука. Будьте осторожны, он не очень прочный.
+
+tropicraft.encyclopedia.bamboochest.title=Бамбуковый сундук
+tropicraft.encyclopedia.bamboochest.desc=Сундук, сделанный из бамбука! Он украсит ваше построенное в тропическом стиле бунгало!
+
+tropicraft.encyclopedia.bamboodoor.title=Бамбуковая дверь
+tropicraft.encyclopedia.bamboodoor.desc=Эта дверь из бамбука и соломы отлично подходит, чтобы отделить вас от дикой природы. Но будьте осторожны, эта дверь не слишком прочна.
+
+tropicraft.encyclopedia.bamboofence.title=Бамбуковый забор
+tropicraft.encyclopedia.bamboofence.desc=Этот бамбуковый забор отлично защищает от неприяностей извне. Но будьте осторожны, этот забор не слишком прочен.
+
+tropicraft.encyclopedia.bamboofencegate.title=Бамбуковая калитка
+tropicraft.encyclopedia.bamboofencegate.desc=Эта бамбуковая калитка замечательно работает со всеми заборами другого вида. Как и другие бумбуковые блоки, она не слишком прочна.
+
+tropicraft.encyclopedia.bamboospear.title=Бабуковое копьё
+tropicraft.encyclopedia.bamboospear.desc=Эта заострённая палка довольно грозная в момент своего изготовления. Но будьте осторожны, копьё теряет свою остроту очень быстро.
+
+tropicraft.encyclopedia.bamboostick.title=Бамбуковая палка
+tropicraft.encyclopedia.bamboostick.desc=Палка, сделанная из бамбука. Используется во многих тропических рецептах, чтобы заменить использование обычных палок.
+
+tropicraft.encyclopedia.beachchair.title=Пляжное кресло
+tropicraft.encyclopedia.beachchair.desc=Ааах! Забросьте свою удочку в тёплый синий океан, наблюдайте за тем, как медленно приближается стайка рыбок, и делайте всё это в роскоши пляжного кресла! Устраивайтесь поудобнее и расслабьтесь в кресле одного из шестнадцати цветов.
+
+tropicraft.encyclopedia.beachumbrella.title=Пляжный зонт
+tropicraft.encyclopedia.beachumbrella.desc=Пляжный отдых не будет полным без зонта, способного прикрыть вас своей тенью! Также доступен в шестнадцати разных цветах.
+
+tropicraft.encyclopedia.beachfloat.title=Пляжный плот
+tropicraft.encyclopedia.beachfloat.desc=Эти расслабляющие плоты позволяют нести вас мягким течениям тропиков. Они выпускаются в шестнадцати разных цветах.
+
+tropicraft.encyclopedia.blackcoffee.title=Чёрный кофе
+tropicraft.encyclopedia.blackcoffee.desc=Кто не любит кофе? Заварите себе чашечку хорошего кофе и полюбуйтесь на восход солнца из своего бунгало.
+
+tropicraft.encyclopedia.volcanicsand.title=Вулканический песок
+tropicraft.encyclopedia.volcanicsand.desc =Ступайте по этому песку осторожно... или не делайте этого вообще. Если вы не надели на себя огненные или чешуйчатые доспехи, вам лучше быть готовым бежать ооооооочень быстро.
+
+#tropicraft.encyclopedia.blowgun.title=Духовое ружьё
+#tropicraft.encyclopedia.blowgun.desc=Эта бамбуковая трубка используется для стрельбы отравленными дротиками. Вы будете удивлены тем, как далеко и быстро вы можете выстрелить дротик лишь одним дыханием.
+
+tropicraft.encyclopedia.bromeliad.title=Бромелия
+tropicraft.encyclopedia.bromeliad.desc=Этот экзотический красный цветок растёт в чаще тропического леса среди древесных лягушек и влажного климата.
+
+tropicraft.encyclopedia.caipirinha.title=Кайпиринья
+tropicraft.encyclopedia.caipirinha.desc=Хотя Коа не слишком любят этот цитрусовый напиток, лайм и сахарный тростник, входящие в его состав, дополнят любой красивый солнечный закат в Тропиках.
+
+tropicraft.encyclopedia.canna.title=Канна
+tropicraft.encyclopedia.canna.desc=Этот жёлто-оранжевый цветок хорошо гармонирует в тропическом мире, дополняя насыщенный красный цвет красного антариума.
+
+tropicraft.encyclopedia.chunkohead.title=Фрагмент Головы
+tropicraft.encyclopedia.chunkohead.desc=Головы Острова Пасхи, которые можно иногда встретить, состоят из этого камня. Это священный камень для тех, кто строил Головы, и их разрушение считается святотатством.
+
+tropicraft.encyclopedia.chunkfence.title=Забор из фрагментов Головы
+tropicraft.encyclopedia.chunkfence.desc=Головы Острова Пасхи, которые можно иногда встретить, состоят из этого камня. Окружите свою базу прекрасной ограждающей версией этого блока.
+
+tropicraft.encyclopedia.chunkfencegate.title=Калитка из фрагментов Головы
+tropicraft.encyclopedia.chunkfencegate.desc=Головы Острова Пасхи, которые можно иногда встретить, состоят из этого камня. Эта калитка прекрасно работает со всеми видами заборов.
+
+tropicraft.encyclopedia.coconut.title=Кокос
+tropicraft.encyclopedia.coconut.desc=Кокосы растут на пальмовых деревьях Тропиков. Срубая их мечом вы получите кусочки кокоса, которые являются отличной закуской. Их твёрдая скорлупа легко разламывается, что позволяет использовать их в качестве взрывчатки.
+
+tropicraft.encyclopedia.coconutchunks.title=Кусочки кокоса
+tropicraft.encyclopedia.coconutchunks.desc=Вы можете получить это вкусное угощение, срубая кокос мечом. Используя их вместе с бамбуковой кружкой и ананасовыми кубиками вы можете приготовить себе освежающую пинаколаду.
+
+tropicraft.encyclopedia.coconutbomb.title=Кокосовая бомба
+tropicraft.encyclopedia.coconutbomb.desc=Этот взрывоопасный кокос отлично подходит для того, чтобы вытащить кого-нибудь или что-нибудь, что пытается помешать вам.
+
+tropicraft.encyclopedia.coffeebean.title=Кофейные зёрна
+tropicraft.encyclopedia.coffeebean.desc=Находятся внутри красных или фиолетовых фруктов, похожих на вишню. Являются семенами кофейных растений, встречающихся по всем Тропикам.
+
+tropicraft.encyclopedia.commelina_diffusa.title=Коммелина раскидистая
+tropicraft.encyclopedia.commelina_diffusa.desc=Коммелина раскидистая добавляет приятную синеву к пейзажу Тропиков.
+
+tropicraft.encyclopedia.coral.title=Коралл
+tropicraft.encyclopedia.coral.desc=Хотя домом этих биолюминесцентных форм жизни является океан, они хорошо подходят для освещения аквариума.
+
+tropicraft.encyclopedia.coralsand.title=Коралловый песок
+coralsand.dec = Ходят слухи, что сотни лет назад эти коралловые пески были вынесены на берег во время торнадо.
+
+tropicraft.encyclopedia.crocosmia.title=Крокосия
+tropicraft.encyclopedia.crocosmia.desc=Эти небольшие огненные цветки похожи на миниатюрные солнца, лежащие на земле.
+
+tropicraft.encyclopedia.croton.title=Кротон
+tropicraft.encyclopedia.croton.desc=Отправляйтесь вперёд и попробуйте узнать, какого он цвета. Дерзайте!
+
+#tropicraft.encyclopedia.curare.title=Кураре
+#tropicraft.encyclopedia.curare.desc=Смешивайте разные виды цветов для приготовления различных типов яда кураре, который можно использовать для создания дротиков со всеми видами эффектов зелий.
+
+#tropicraft.encyclopedia.curarebowl.title=Чаша кураре
+#tropicraft.encyclopedia.curarebowl.desc=Смешивайте в этой чаше разные виды цветов для приготовления различных типов яда кураре, который можно использовать для создания дротиков со всеми видами эффектов зелий.
+
+tropicraft.encyclopedia.dagger.title=Кинжал
+tropicraft.encyclopedia.dagger.desc=Используется в племени Коа во время охоты или при нападении.
+
+#tropicraft.encyclopedia.dart.title=Дротик
+#tropicraft.encyclopedia.dart.desc=Этот пропитанный нейротоксином дротик способен остановить большую часть мобов на их пути. Однако будьте осторожны, эффект является временным. Дротики могут иметь эффекты от различных зелий.
+
+tropicraft.encyclopedia.dracaena.title=Драцена
+tropicraft.encyclopedia.dracaena.desc=Это интересное растение, окрашенное в персиковый и зелёный цвета, можно найти только в тропическом лесу.
+
+tropicraft.encyclopedia.easternisles.title="Острова Пасхи" ("Eastern Isles")
+tropicraft.encyclopedia.easternisles.desc=Эта потрясающая композиция для барабана и баса была создана Фроксом (Frox). Откиньтесь назад и наслаждайтесь.
+
+tropicraft.encyclopedia.encyclopedia.title=Энциклопедия Тропиков
+tropicraft.encyclopedia.encyclopedia.desc=Энциклопедия является источником информации о многих предметах Тропиков. Она была напечатана магическими чернилами, и при получении нового предмета запись о нём сама появляется в книге. Новые записи будут выделены синим цветом, Вы можете перемещаться по страницам,, используя вкладки по бокам книги. Предметы, которые могут быть созданы, будут иметь вкладку наковальни. 
+
+tropicraft.encyclopedia.eudialyte.title=Эвдиалит
+tropicraft.encyclopedia.eudialyte.desc=Этот розоватый кристалл можно найти, добывая эвдиалитовыю руду, которая находится под землёй в тропическом мире. Это отличный материал для инструментов.
+
+tropicraft.encyclopedia.fern.title=Папоротник
+tropicraft.encyclopedia.fern.desc=Папоротники можно встретить в тропическом лесу повсюду.
+
+tropicraft.encyclopedia.fertilizer.title=Удобрение
+tropicraft.encyclopedia.fertilizer.desc=Удобрения действуют аналогично костной муке, но, кроме того, позволяют выращивать тропические цветы и фруктовые растения, такие как ананасы.
+
+tropicraft.encyclopedia.fireboots.title=Огненные ботинки
+tropicraft.encyclopedia.fireboots.desc=Ботинки, изготовленные из неизвестного материала, дающего надёжную защиту от огня. Но не оставайтесь в огне слишком долго, иначе сгорите!
+
+tropicraft.encyclopedia.firechestplate.title=Огненный нагрудник
+tropicraft.encyclopedia.firechestplate.desc=Нагрудник, изготовленный из неизвестного материала, дающего надёжную защиту от огня. Но не оставайтесь в огне слишком долго, иначе сгорите!
+
+tropicraft.encyclopedia.firehelm.title=Огненный шлем
+tropicraft.encyclopedia.firehelm.desc=Шлем, изготовленный из неизвестного материала, дающего надёжную защиту от огня. Но не оставайтесь в огне слишком долго, иначе сгорите!
+
+tropicraft.encyclopedia.fireleggings.title=Огненные поножи
+tropicraft.encyclopedia.fireleggings.desc=Поножи, изготовленные из неизвестного материала, дающего надёжную защиту от огня. Но не оставайтесь в огне слишком долго, иначе сгорите!
+
+tropicraft.encyclopedia.fishbucket.title=Рыба в ведре
+tropicraft.encyclopedia.fishbucket.desc=Используйте это, чтобы выпустить рыбу, которую вы поймаете в дикой природе. Создайте, например, аквариум!
+
+tropicraft.encyclopedia.fishingnet.title=Рыболовная сеть
+tropicraft.encyclopedia.fishingnet.desc=Эта прочная сеть отлично подходит для ловли мелких рыб, обитающих в Тропиках. Убедитесь, что у вас есть ведро с водой, иначе вам некуда будет положить рыбу.
+
+tropicraft.encyclopedia.flowerpot.title=Цветочный горшок
+tropicraft.encyclopedia.flowerpot.desc=Этот цветочный горшок можно использовать для украшения любого сада, посадив в него любой тропический цветок, растение или саженец.
+
+tropicraft.encyclopedia.foliage.title=Листва
+tropicraft.encyclopedia.foliage.desc=Обычные растения, которые можно найти в Тропиках.
+
+tropicraft.encyclopedia.froglegs.title=Лягушачьи лапки
+tropicraft.encyclopedia.froglegs.desc=Лапки древесных лягушек на самом деле съедобны, однако сначала их нужно приготовить.
+
+tropicraft.encyclopedia.froglegscooked.title=Лягушачьи лапки, приготовленные
+tropicraft.encyclopedia.froglegscooked.desc=Этот редкий деликатес является результатом приготовления лягушачьих лапок.
+
+tropicraft.encyclopedia.frogskin.title=Кожа ядовитой лягушки
+tropicraft.encyclopedia.frogskin.desc=Ядовитые древесные лягушки выделяют парализующий токсин на своей коже. Используя его на дротиках вы можете кратковременно парализовать врага.
+
+tropicraft.encyclopedia.froxconch.title=Моллюск Фрокса
+tropicraft.encyclopedia.froxconch.desc=Названный в честь автора "Trade Winds" ("Пассаты"), одной из мелодий Tropicraft, моллюск Фрокса с некоторой вероятностью может скрывать чёрную жемчужину, так что, ищите!
+
+tropicraft.encyclopedia.grapefruit.title=Грейпфрут
+tropicraft.encyclopedia.grapefruit.desc=Вкусный грейпфрутовый цитрусовый фрукт, который выпадает из грейпфрутовых листьев.
+
+tropicraft.encyclopedia.grapefruitsapling.title=Саженец грейпфрута
+tropicraft.encyclopedia.grapefruitsapling.desc=Вырастает в грейпфрутовое дерево, с которого вы можете получить вкусные грейпфруты!
+
+tropicraft.encyclopedia.foamysand.title=Зелёный песок
+tropicraft.encyclopedia.foamysand.desc=По слухам, этот редких песок сформировался в давние времена, когда Тропики впервые показались из глубин океана. Встречается чаще всего под кучками морских водорослей.
+
+tropicraft.encyclopedia.iggyscale.title=Чешуя игуаны
+tropicraft.encyclopedia.iggyscale.desc=Восхитительные игуаны, населяющие Тропики, могут сбрасывать чешуйки. Эти чешуйки уникальны тем, что являются огнеупорными. Ношение доспехов из чешуи позволит вам побывать в некоторых довольно горячих местах.
+
+tropicraft.encyclopedia.iguana_leather.title=Кожа игуаны
+tropicraft.encyclopedia.iguana_leather.desc=Восхитительные игуаны, населяющие Тропики, могут сбрасывать зелёную кожу. Она действует также как и обычная кожа и может использоваться в качестве её замены. Кроме того, из кожи игуаны можно сделать барабаны бонго!
+
+tropicraft.encyclopedia.iris.title=Ирис
+tropicraft.encyclopedia.iris.desc=Эти высокие фиолетовые цветы прекрасно выглядят. Их можно легко пересадить.
+
+tropicraft.encyclopedia.kapok.title=Листья капока
+tropicraft.encyclopedia.kapok.desc=Эти листья можно найти на огромных деревьях, которые очень редко появляются в тропических биомах.
+
+#tropicraft.encyclopedia.koachest.title=Сундук Коа
+#tropicraft.encyclopedia.koachest.desc=Сундук, который призывает Коа. Используйте его, чтобы заполнить жителями деревню или бунгало!
+
+#tropicraft.encyclopedia.leafball.title=Лиственный шар
+#tropicraft.encyclopedia.leafball.desc=Лиственные шары можно получить только торгуя с жителями племени Коа. Если вы бросите лиственный шар, то при ударе он рассыпется на множество листьев.
+
+#tropicraft.encyclopedia.leather.title=Кожа
+#tropicraft.encyclopedia.leather.desc=Кожа не только отлично подходит для стильных ботинок, но из неё можно также сделать и ласты.
+
+tropicraft.encyclopedia.lemon.title=Лимон
+tropicraft.encyclopedia.lemon.desc=Вкусный лимонный цитрусовый фрукт, который выпадает из лимонных листьев.
+
+tropicraft.encyclopedia.lemonade.title=Лимонад
+tropicraft.encyclopedia.lemonade.desc=Вкусный лимонный цитрусовый напиток. Довольно слов.
+
+tropicraft.encyclopedia.lemonsapling.title=Саженец лимона
+tropicraft.encyclopedia.lemonsapling.desc=Вырастает в лимонное дерево. Которое даёт вам саженцы лимона, дающих... лимонные деревья?
+
+tropicraft.encyclopedia.lime.title=Лайм
+tropicraft.encyclopedia.lime.desc=Вкусный лаймовый цитрусовый фрукт, который выпадает из лаймовых листьев.
+
+tropicraft.encyclopedia.limeade.title=Лаймонад
+tropicraft.encyclopedia.limeade.desc=Как лимонад, только с лаймами!
+
+tropicraft.encyclopedia.limesapling.title=Саженец лайма
+tropicraft.encyclopedia.limesapling.desc=Вырастает в лаймовое дерево. Приготовьте свои губы - лаймы обязательно оставят сумасшедшее послевкусие после того как вы вырастите саженец лайма в настоящее дерево!
+
+tropicraft.encyclopedia.lowtide.title="Отлив" ("Low Tide")
+tropicraft.encyclopedia.lowtide.desc=Созданная Punchaface, эта электронная успакаивающая композиция, содержащая сильную мелодию для бас-гитары, несомненно будет звучать ярче в любой из дней в Тропиках.
+
+tropicraft.encyclopedia.magic_mushroom.title=Галлюциногенный гриб
+tropicraft.encyclopedia.magic_mushroom.desc=Мистические грибы, растущие только в тропическом лесу. Требуют большего изучения.
+
+tropicraft.encyclopedia.mahogany.title=Махагони
+tropicraft.encyclopedia.mahogany.desc=Это дерево красивого цвета собрало в себе все деревья тропического леса Tropicraft и является прекрасным дополнением любого тропического рая.
+
+tropicraft.encyclopedia.mahoganyfence.title=Забор из махагони
+tropicraft.encyclopedia.mahoganyfence.desc=Это дерево красивого цвета собрало в себе все деревья тропического леса Tropicraft и является прекрасным дополнением любого тропического рая.
+
+tropicraft.encyclopedia.mahoganyfencegate.title=Калитка из махогони
+tropicraft.encyclopedia.mahoganyfencegate.desc=Это дерево красивого цвета собрало в себе все деревья тропического леса Tropicraft и является прекрасным дополнением любого тропического рая.
+
+tropicraft.encyclopedia.marlinmeat.title=Свежий марлин
+tropicraft.encyclopedia.marlinmeat.desc=Мясо неуловимого марлина. Из него можно приготовить копчёного марлина.
+
+tropicraft.encyclopedia.marlincooked.title=Копчёный марлин
+tropicraft.encyclopedia.marlincooked.desc=Мммм. Вкуснятина в моём животике. Это то, что вы приготовили из свежего марлина.
+
+tropicraft.encyclopedia.mineralsand.title=Минеральный песок
+tropicraft.encyclopedia.mineralsand.desc = По слухам, этот особый тип песка содержит различные минералы. Их использование в настоящее время неизвестно.
+
+tropicraft.encyclopedia.mixer.title=Миксер для напитков
+tropicraft.encyclopedia.mixer.desc=Смешивайте различные виды фруктов, используя миксер, чтобы получить различные коктейли. У вас может быть собственный бар!
+
+tropicraft.encyclopedia.orange.title=Апельсин
+tropicraft.encyclopedia.orange.desc=Вкусный оранжевый цитрусовый фрукт, который выпадает из апельсиновых листьев.
+
+tropicraft.encyclopedia.orangeade.title=Оранжад
+tropicraft.encyclopedia.orangeade.desc=Как лимонад, только из апельсинов!
+
+tropicraft.encyclopedia.orangesapling.title=Саженец апельсина
+tropicraft.encyclopedia.orangesapling.desc=Посадите этот саженец и скоро у вас будет полностью распустившееся апельсиновое дерево! Удалите листья, получите апельсины. Выгодно!
+
+tropicraft.encyclopedia.orchid.title=Орхидея
+tropicraft.encyclopedia.orchid.desc=Орхидеи, пожалуй, самые редкие из всех цветов в Тропиках. Их тонкие розовые и белые лепестки обязательно добавят вам изысканности в ваш дом.
+
+tropicraft.encyclopedia.pabshell.title=Ракушка Паба
+tropicraft.encyclopedia.pabshell.desc=Названная в честь Pablomittens, одного из первых разработчиков мода, ракушка Паба является одним из оригинальных предметов, которые были в Tropicraft с версии 1.0, но никогда не использовались.
+
+tropicraft.encyclopedia.palmplanks.title=Пальмовые доски
+tropicraft.encyclopedia.palmplanks.desc=Пальмовые доски делают из пальмовой древесины, которую делают из пальмовых деревьев!
+
+tropicraft.encyclopedia.palmwood.title=Пальма
+tropicraft.encyclopedia.palmwood.desc=Пальмовые деревья сделаны из удивительно прочной древесины. Из неё можно делать доски.
+
+tropicraft.encyclopedia.palmsapling.title=Саженец пальмы
+tropicraft.encyclopedia.palmsapling.desc=Эти деревья могут расти только на песке. Как и другие деревья, лучше всего они растут в широких открытых зонах и быстро вырастают при использования костной муки.
+
+tropicraft.encyclopedia.palmfence.title=Пальмовый забор
+tropicraft.encyclopedia.palmfence.desc=Пальмовые деревья сделаны из удивительно прочной древесины. Из красивых пальмовых досок можно сделать забор.
+
+tropicraft.encyclopedia.palmfencegate.title=Пальмовая калитка
+tropicraft.encyclopedia.palmfencegate.desc=Пальмовые деревья сделаны из удивительно прочной древесины. Из красивых пальмовых досок можно сделать калитку.
+
+tropicraft.encyclopedia.pathos.title=Пафос
+tropicraft.encyclopedia.pathos.desc=Пафос по-гречески означает "обращение к эмоциям". Это растение можно найти только в тропических лесах.
+
+tropicraft.encyclopedia.pearlb.title=Жемчужина, чёрная
+tropicraft.encyclopedia.pearlb.desc=Имеет высокую торговую ценность для племени Коа; очень редко можно найти в моллюске Фрокса.
+
+tropicraft.encyclopedia.pearlw.title=Жемчужина, белая
+tropicraft.encyclopedia.pearlw.desc=Имеет сравнительно высокую торговую ценность для племени Коа; можно найти в ракушке Солонокса.
+
+tropicraft.encyclopedia.pineapple.title=Ананас
+tropicraft.encyclopedia.pineapple.desc=Легко распространяется, что делает его отличным источником пищи. Если срубить его на стебле мечом, то вы получите ананасовые кубики. Используя их вместе с бамбуковой кружкой и кусочками кокоса вы можете приготовить себе освежающую пинаколаду.
+
+tropicraft.encyclopedia.pineapplecubes.title=Ананасовое кубики
+tropicraft.encyclopedia.pineapplecubes.desc=Этот отличный источник пищи можно легко получить, срубив ананас мечом.
+
+tropicraft.encyclopedia.pinacolada.title=Пинаколада
+tropicraft.encyclopedia.pinacolada.desc=Этот освежающий напиток приготавливается путём смешивания кусочков кокоса и ананасовых кубиков в бамбуковой кружке. Однако будьте осмотрительны - обезьяны любят наслаждаться пинаколадой так же, как и вы.
+
+tropicraft.encyclopedia.portalstarter.title=Волшебный жезл Портала в Тропики
+tropicraft.encyclopedia.portalstarter.desc=Этот предмет, сделанный из зачарованного азурита и циркона, создаёт портал, который можно использовать для телепортации между Тропиками и верхним миром. Для этого постройте плоский квадрат 3х3 из песчаника, наполните его водой, после чего щёлкните по нему правой кнопкой мыши.
+
+tropicraft.encyclopedia.purifiedsand.title=Чистый песок
+tropicraft.encyclopedia.purifiedsand.desc=Чистый песок составляет большую часть Тропиков, с редкими участками песков особого вида.
+
+tropicraft.encyclopedia.reeds.title=Тростник
+tropicraft.encyclopedia.reeds.desc=В Тропиках сахарный тростник получил новое назначение: строительство из соломы.
+
+tropicraft.encyclopedia.rubenautilus.title=Наутилус Рубе
+tropicraft.encyclopedia.rubenautilus.desc=Названный в честь MrRube, одного из нынешних разработчиков Tropicraft, наутилус Рубе был создан MrRube фактически ещё до версии 1.0 Tropicraft, но никогда не использовался ... до сих пор!
+
+tropicraft.encyclopedia.scaleboots.title=Чешуйчатые ботинки
+tropicraft.encyclopedia.scaleboots.desc=Ботинки, изготовленные из чешуек игуаны, обеспечивают защиту от огня для тех, кто их носит.
+
+tropicraft.encyclopedia.scalechestplate.title=Чешуйчатый нагрудник
+tropicraft.encyclopedia.scalechestplate.desc=Нагрудник, изготовленный из чешуек игуаны, обеспечивает защиту от огня для тех, кто его носит.
+
+tropicraft.encyclopedia.scalehelm.title=Чешуйчатый шлем
+tropicraft.encyclopedia.scalehelm.desc=Шлем, изготовленный из чешуек игуаны, обеспечивает защиту от огня для тех, кто его носит.
+
+tropicraft.encyclopedia.scaleleggings.title=Чешуйчатые поножи
+tropicraft.encyclopedia.scaleleggings.desc=Поножи, изготовленные из чешуек игуаны, обеспечивают защиту от огня для тех, кто их носит.
+
+tropicraft.encyclopedia.seaurchinroe.title=Икра морского ежа
+tropicraft.encyclopedia.seaurchinroe.desc=Отличный источник жирных кислот Омега-3. Это всё, что вам нужно знать.
+
+tropicraft.encyclopedia.sifter.title=Просеиватель
+tropicraft.encyclopedia.sifter.desc=Щёлкните правой кнопкой мыши по просеивателю с песком любого вида, подождите около десяти секунд и вы получите от одного до трёх предметов. Это могут быть редкие ракушки, золотые самородки или что-нибудь ещё!
+
+#tropicraft.encyclopedia.smeltedzircon.title=Расплавленный циркон
+#tropicraft.encyclopedia.smeltedzircon.desc=Если у вас уже это есть, вам потребуется только 4 алмаза, чтобы получить цирконий.
+
+#tropicraft.encyclopedia.snaretrap.title=Ловушка
+#tropicraft.encyclopedia.snaretrap.desc=Это устройство позволяет захватывать мобов и игроков, делая их неподвижными.
+
+#tropicraft.encyclopedia.snorkel.title=Дыхательная трубка
+#tropicraft.encyclopedia.snorkel.desc=С трубкой вы можете погрузиться глубоко в кристально-чистые голубые воды тропического мира, не опасаясь утонуть! Используя трубку вы можете оставаться под водой в четыре раза дольше!
+
+tropicraft.encyclopedia.solonoxshell.title=Ракушка Солонокса
+tropicraft.encyclopedia.solonoxshell.desc=Названная в честь прозвища автора "Trade Winds" ("Пассаты"), одной из мелодий Tropicraft, ракушка Солонокса с некоторой вероятностью может скрывать белую жемчужину, так что, ищите!
+
+tropicraft.encyclopedia.starfishshell.title=Морская звезда
+tropicraft.encyclopedia.starfishshell.desc=Звездообразная оболочка, которая выпадает при убийстве морской звезды. Может быть размещёна на стене.
+
+tropicraft.encyclopedia.summering.title="Летние дни" ("Summering")
+tropicraft.encyclopedia.summering.desc=Вибрации лета в заниженном темпе, тщательно обработанные Billy Christiansen. Приготовьте пинаколаду, присядьте и послушайте эту мелодию, чтобы набраться опыта в тропической релаксации.
+
+tropicraft.encyclopedia.tikitorch.title=Тики факел
+tropicraft.encyclopedia.tikitorch.desc=Эти высокие факелы отлично подходят для освещения пляжей.
+
+tropicraft.encyclopedia.thatchblock.title=Связка соломы
+tropicraft.encyclopedia.thatchblock.desc=Легко создаваемый и легко разрушаемый, этот соломенный блок обеспечивает ещё один постоянный строительный материал для Тропиков. Из него можно делать ступеньки и плиты.
+
+tropicraft.encyclopedia.thatchfence.title=Соломенный забор
+tropicraft.encyclopedia.thatchfence.desc=Легко создаваемый и легко разрушаемый, этот соломенный блок обеспечивает ещё один постоянный строительный материал для Тропиков.
+
+tropicraft.encyclopedia.thatchfencegate.title=Соломенная калитка
+tropicraft.encyclopedia.thatchfencegate.desc=Легко создаваемый и легко разрушаемый, этот соломенный блок обеспечивает ещё один постоянный строительный материал для Тропиков.
+
+tropicraft.encyclopedia.thetribe.title="Племя" ("The Tribe")
+tropicraft.encyclopedia.thetribe.desc=Энергичные тропические вибрации, подаренные вам Эмилем ван Крикеном (Emile van Krieken). Слушайте эту песню, отправляясь в деревню Коа, и вы можете обрести популярность у местных жителей.
+
+tropicraft.encyclopedia.tradewinds.title="Пассаты" ("Trade Winds")
+tropicraft.encyclopedia.tradewinds.desc=Успокаивающая композиция, написаннная Фроксом (Frox). При 136 ударов в минуту "Пассаты" обязательно помогут вам расслабиться во время вашего тропического отдыха.
+
+tropicraft.encyclopedia.trimix.title=Тримикс, тройная газовая смесь
+tropicraft.encyclopedia.trimix.desc=Дыхательный газ, состоящий из кислорода, гелия и азота. Тримикс можно поместить в воздушный компрессор, чтобы заполнить баллоны смешанным с тримиксом воздухом, что позволит игроку находиться под водой длительное время!
+
+tropicraft.encyclopedia.tropiframe.title=Бамбуковая рамка
+tropicraft.encyclopedia.tropiframe.desc=Эта рамка для предметов применяется также как и обычная рамка, только имеет обрамление из бамбука.
+
+tropicraft.encyclopedia.turtleshell.title=Панцирь черепахи
+tropicraft.encyclopedia.turtleshell.desc=Этот панцирь отлично подходит для постройки вашего пляжного бунгало.
+
+tropicraft.encyclopedia.waterwand.title=Водный жезл
+tropicraft.encyclopedia.waterwand.desc=Этот таинственный стержень обладает уникальной способностью поглощать 1000 блоков воды. Это свойство делает Водный жезл идеальным инструментом при строительстве подводных жилищ без воды.
+
+tropicraft.encyclopedia.zircon.title=Циркон
+tropicraft.encyclopedia.zircon.desc=Этот мистический красный кристалл можно добыть из цирконовой руды, которая находится глубоко под землёй в тропическом мире.
+
+#tropicraft.encyclopedia.zirconium.title=Цирконий
+#tropicraft.encyclopedia.zirconium.desc=По слухам, этот редкий кристалл, в сочетании с азуритом, открывает древние силы. Он также может быть использован для создания инструментов мистической прочности!
+
+tropicraft.encyclopedia.fishingrod.title=Бамбуковая удочка
+tropicraft.encyclopedia.fishingrod.desc=Эта удочка, которую обязан иметь при себе любой начинающий рыбак, имеет лёгкий вес и эргономичный дизайн, что превращает рыбалку для ужина в дуновение ветерка!
+
+tropicraft.encyclopedia.scubaflippers.title=Ласты
+tropicraft.encyclopedia.scubaflippers.desc=Эти гибкие ласты имеют два разных цвета: розовый и жёлтый! Вы можете скользить в тропических водах без всяких усилий, используя этих парней. Совет: сделайте "бочку"!
+
+tropicraft.encyclopedia.weightbelt.title=Пояс с грузом
+tropicraft.encyclopedia.weightbelt.desc=Пояс с грузом помогает вашему подводному снаряжению удерживать вас под водой.
+
+tropicraft.encyclopedia.bcd.title=Компенсатор плавучести
+tropicraft.encyclopedia.bcd.desc=Компенсатор плавучести помогает передавать воздух из ваших баллонов в ваш загубник.
+
+tropicraft.encyclopedia.scubachestplate.title=Подвесная система
+tropicraft.encyclopedia.scubachestplate.desc=Этот сложно выглядящий подводный нагрудник позволяет вам носить несколько баллонов. Нажмите Shift+Right на нагрудник, чтобы установить до 2-х баллонов!
+
+tropicraft.encyclopedia.scubatank.title=Баллон
+tropicraft.encyclopedia.scubatank.desc=Баллоны хранят в себе весь воздух, которым вы дышите во время погружения. Заполняйте ваши баллоны в Воздушном компрессоре.
+
+tropicraft.encyclopedia.regulator.title=Регулятор
+tropicraft.encyclopedia.regulator.desc=Это устройство выравнивает давление между вдыхаемым газом и дайвером. Другими словами, он помогает не сделать вам БУМ!
+
+tropicraft.encyclopedia.scubagoggles.title=Подводные очки
+tropicraft.encyclopedia.scubagoggles.desc=Эта часть подводного снаряжения позволяет не только просматривать данные с вашего компьютера, но и вдыхать воздух из баллонов, которые вы несёте.
+
+tropicraft.encyclopedia.divecomputer.title=Компьютер для дайвинга
+tropicraft.encyclopedia.divecomputer.desc=Редкий образец тропических технологий, этот компьютер регистрирует различные данные во время вашего нахождения под водой. После вашего нахождения под водой в течении часа, покажите свой компьютер любому Коа для сюрприза!
+
+tropicraft.encyclopedia.ponybottle.title=Запасной баллон
+tropicraft.encyclopedia.ponybottle.desc=При длительных погружениях всегда берите с собой запасной баллон. Когда у вас закончится воздух, запасной баллон ненадолго пополнит ваш запас воздуха, позволив безопасно подняться на поверхность.
+
+tropicraft.encyclopedia.bamboo_ladder.title=Бамбуковая лестница
+tropicraft.encyclopedia.bamboo_ladder.desc=Тук. Тук. Тук. Слышал это? Это ты поднимаешься по лестнице, сделанной из бамбука.
+
+tropicraft.encyclopedia.rayraw.title=Сырой пятнистый орляк
+tropicraft.encyclopedia.rayraw.desc=Пятнистые орляки - редкое зрелище в тропиках, но их плавные движения столь же величественные, сколь и завораживающие. Вы можете убить одного из них, чтобы добыть это сырое мясо, но... они прекрасные создания, стоит ли так поступать?
+
+tropicraft.encyclopedia.raycooked.title=Приготовленный пятнистый орляк
+tropicraft.encyclopedia.raycooked.desc=Деликатес у некоторых народов, это лёгкое рыбное мясо - это то, что вы получаете, когда вы готовите сырого орляка.
+
+tropicraft.encyclopedia.koa.fisherman.title=Рыбак Коа
+tropicraft.encyclopedia.koa.fisherman.desc=Дружелюбный Коа, который предпочитает ловить всё, что доступно в море. Возьмёт у вас жемчуг для пополнения различных рыбных мясных продуктов. Щёлкните правой кнопкой мыши на компьютере для дайвинга, чтобы попытаться получить тримикс.
+
+tropicraft.encyclopedia.koa.hunter.title=Охотник Коа
+tropicraft.encyclopedia.koa.hunter.desc=Коа, который всегда готовится к своей следующей большой охоте на суше. Возьмёт у вас жемчуг для пополнения различных мясных продуктов и материалов. Щёлкните правой кнопкой мыши на компьютере для дайвинга, чтобы попытаться получить тримикс.
+
+
+
+entity.tropicraft.treefrog.name=Древесная лягушка
+entity.tropicraft.fish.name=Тропическая рыбка
+entity.tropicraft.failgull.name=Чайка
+entity.tropicraft.mow.name=Кораблик
